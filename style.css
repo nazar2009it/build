@@ -1,0 +1,418 @@
+.backround{
+    background-image: url('https://i.pinimg.com/originals/50/2b/33/502b331fd7877d6cf65065ee721fb842.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.logo{
+    width: 75px;
+    
+}
+.h1{
+    height: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.logo img{
+    width: 100%;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    padding: 10px 20px;
+}
+.call a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 25px;
+    
+}
+.p{
+    text-align: center;
+    font-size: 32px;
+
+}
+body{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#262626 ;
+}
+*{
+    margin: 0px;
+    padding: 0xp;
+}
+.menu a:hover{
+    color: gainsboro;
+}
+.call a:hover{
+    color: gainsboro;
+    border: 2px solid  gainsboro;
+}
+.first{
+    margin: auto;
+    border: 1px solid burlywood;
+    width: 87%;
+    display: flex;
+    margin-top: 80px;
+}
+.second{
+    margin: auto;
+    border: 1px solid burlywood;
+    width: 87%;
+    display: flex;
+    margin-bottom: 100px;
+}
+.img{
+    width: 50%;
+    border: 1px solid burlywood;
+}
+.pading{
+    padding-top:185px ;
+    padding-left:50px;
+}
+.f{
+    font-size: 40px;
+}
+.first li{
+    margin: 13px 0;
+}
+.first h2{
+    margin-bottom: 30px;
+}
+.first  a{
+    color: black;
+    text-decoration: none;
+    background-color: burlywood;
+    padding-top: 20px;
+    padding-left:60px ;
+    padding-right: 60px;
+    padding-bottom:20px ;
+    
+}
+.ew{
+    margin-top: 70px;
+}
+.four{
+    width: 87%;
+    height:285px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.hack{
+    color: white;
+    padding-left: 60px;
+    font-size: 18px;
+    flex-wrap: wrap;
+    padding-top: 0px;
+    justify-content: center;
+}
+.back{
+    color: white;
+    padding-left: 47px;
+    font-size: 18px;
+    flex-wrap: wrap;
+    padding-top: 160px;
+}
+.heck{
+    color: white;
+    padding-left: 93px;
+    font-size: 18px;
+    flex-wrap: wrap;
+    padding-top: 0px;
+    justify-content: center;
+}
+.beck{
+    color: white;
+    padding-left: 88px;
+    font-size: 18px;
+    flex-wrap: wrap;
+    padding-top: 160px;
+}
+.hick{
+    color: white;
+    padding-left: 90px;
+    font-size: 18px;
+    flex-wrap: wrap;
+    padding-top: 0px;
+    justify-content: center;
+}
+.bick{
+    color: white;
+    padding-left: 40px;
+    font-size: 18px;
+    flex-wrap: wrap;
+    padding-top: 160px;
+}
+.buck{
+    color: white;
+    padding-left: 90px;
+    font-size: 18px;
+    flex-wrap: wrap;
+    padding-top: 160px;
+}
+.huck{
+    color: white;
+    padding-left: 110px;
+    font-size: 18px;
+    flex-wrap: wrap;
+    padding-top: 0px;
+    justify-content: center;
+}
+.boss{
+    width: 46%;
+    padding-top: 130px;
+    margin-left: 50px;
+}
+.white{
+    font-size:25px ;
+    margin-bottom:40px ;
+}
+.brown{
+    font-size: 18px;
+    padding-right: 100px;
+    color:burlywood ;
+    margin-bottom: 40px;
+}
+.mini{
+    font-size:16px ;
+    padding-right: 0px;
+    line-height: 25px;
+}
+.boba{
+    font-size: 32px;
+    margin-left: 37%;
+    margin-bottom: 50px;
+}
+.ex{
+    display: flex;
+    width: 87%;
+    margin: auto;
+    height: 400px;
+    position: relative;
+}
+.pri1{
+    width: 175px;
+    height: 215px;
+    position: absolute;
+    border: 1px solid burlywood;
+}
+.pri2{
+    width: 175px;
+    height: 145px;
+    position: absolute;
+    top: 0px;
+    left: 235px;
+    border: 1px solid burlywood;
+}
+.pri3{
+    width: 175px;
+    height: 125px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border: 1px solid burlywood;
+}
+.pri4{
+    width: 175px;
+    height: 200px;
+    position: absolute;
+    bottom:0px ;
+    left: 235px;
+    border: 1px solid burlywood;
+}
+.pri5{
+    width: 57%;     
+    height: 400px; 
+    right: 0px;  
+    position: absolute;
+    border: 1px solid burlywood;
+}
+.look a{
+    color: black;
+    background-color: burlywood;
+    padding-top: 20px;
+    padding-left:60px ;
+    padding-right: 60px;
+    padding-bottom:20px ;
+    text-decoration: none;
+}
+.look{
+    margin-top: 65px;
+    margin-left: 40%;
+    margin-bottom: 75px;
+}
+.mini-boss{
+    display: flex;
+    width: 87%;
+    margin: auto;
+    height: 420px;
+}
+.latter{
+    border: 1px solid burlywood;
+    width: 25%;
+    background-color:burlywood ;
+    padding-left: 25px;
+    padding-top: 175px;
+    font-size: 28px;
+}
+.maps{
+    border: 1px solid burlywood;
+    width: 25%;
+    padding-top: 80px;
+    padding-left: 25px;
+    line-height: 25px
+}
+.beb{
+    border: 1px solid burlywood;
+    width: 25%;
+    padding-top: 80px;
+    padding-left: 25px;
+    line-height: 25px
+}
+.rer{
+    border: 1px solid burlywood;
+    width: 25%;
+    padding-top: 80px;
+    padding-left: 25px;
+    line-height: 25px
+}
+.maps h2{
+    color:burlywood ;
+    padding-top: 35px;
+    font-size: 30px;
+}
+.beb h2{
+    color:burlywood ;
+    padding-top: 35px;
+    font-size: 30px;
+}
+.rer h2{
+    color:burlywood ;
+    padding-top: 35px;
+    font-size: 30px;
+}
+footer{
+    width: 90%;
+    margin: auto;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-between;
+    color:burlywood ;
+}
+.ban{
+    line-height: 30px;
+}
+.ben{
+    
+}
+.bun{
+    
+}
+.ban h2{
+    font-size: 40px;
+}
+.ben h2{
+    
+}
+.bun h2{
+    
+}
+.ban p{
+    line-height: 30px;
+}
+.ben p{
+    
+}
+.bun p{
+    
+}
+.margin{
+    margin-top:40px ;
+}
+.q img{
+    width: 120px;
+    height: ;
+    position: absolute;
+    left: 75px;
+    top: 35px;
+}
+.q{
+    border: 1px solid burlywood;
+    width: 25%;
+    height: 285px;
+    justify-content: center;
+    position: relative;
+}
+.insta{
+    display: flex;
+    width: 50px;
+    flex-direction: column;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    left: 15px;
+    bottom: 50px;
+}
+.insta img{
+    width: 20px;
+}
+.comun{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    
+}
+.comun img{
+    width: 40px;
+    position: absolute;
+    left: 10px;
+    bottom: 5px;
+}
+.comun a{
+    position: relative;
+    padding: 15px 15px 15px 70px ;
+    background-color: burlywood;
+    border-radius: 20px;
+    border: 1px solid burlywood;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
